@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SumanDeveloper2002
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently learning forntend developing technology
+- 🌱 I’m currently learning forntend development
 - 💞️ I’m looking for a internship or a job wherein my theoritical and your practical knowledge make a great innovation.
 - 📫 How to reach me ... Gmail - sumanbhowmick1459@gmail.com <br> Linkedin- https://www.linkedin.com/in/suman-bhowmick-b1b20320b/
 
