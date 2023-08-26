@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SumanDeveloper2002
+- 👋 Hi, I’m Suman Bhowmick
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning forntend development
 - 💞️ I’m looking for a internship or a job wherein my theoritical and your practical knowledge make a great innovation.
