@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full stack Web Developement**
 
-- 📫 How to reach me **sumanbhowmick1459@gmail.com**
+- 📫 Reach me **sumanbhowmick1459@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1U_K0KNoMMAK90UTxOJSCNURHmgVUlz1h/edit?usp=drive_link&ouid=112370762462138213305&rtpof=true&sd=true](https://docs.google.com/document/d/1U_K0KNoMMAK90UTxOJSCNURHmgVUlz1h/edit?usp=drive_link&ouid=112370762462138213305&rtpof=true&sd=true)
 
