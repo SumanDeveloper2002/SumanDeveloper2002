@@ -1,21 +1,21 @@
 ![MasterHead](https://camo.githubusercontent.com/127298714375cc05adb5cba46747c271a69d0a7208954d5db93650ba2f5b34ce/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)
 <h1 align="center">Hi 👋, I'm Suman Bhowmick</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumandeveloper2002&label=Profile%20views&color=0e75b6&style=flat" alt="sumandeveloper2002" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@sumanbh49166557" target="blank"><img src="https://img.shields.io/twitter/follow/@sumanbh49166557?logo=twitter&style=for-the-badge" alt="@sumanbh49166557" /></a> </p>
 
 
-- 🔭 I’m currently working on **Personal project**
+- 🔭 I’m currently studing **B.Tech in EEE**
 
-- 🌱 I’m currently learning **Full stack Web Developement**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 Reach me **sumanbhowmick1459@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1U_K0KNoMMAK90UTxOJSCNURHmgVUlz1h/edit?usp=drive_link&ouid=112370762462138213305&rtpof=true&sd=true](https://docs.google.com/document/d/1U_K0KNoMMAK90UTxOJSCNURHmgVUlz1h/edit?usp=drive_link&ouid=112370762462138213305&rtpof=true&sd=true)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1W55F95ow-WxnP7ogDPMPARqTHMZMpz4V/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact is **I get into sleep without turning off the light!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
