@@ -13,7 +13,7 @@
 
 - 📫 Reach me **sumanbhowmick1459@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1W55F95ow-WxnP7ogDPMPARqTHMZMpz4V/view?usp=sharing](https://drive.google.com/file/d/1L8l7RMVKrfoYSCqNzX5zzn3RJ35a1lBu/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1L8l7RMVKrfoYSCqNzX5zzn3RJ35a1lBu/view?usp=drive_link)
 
 - ⚡ Fun fact is **I get into sleep without turning off the light!**
 
