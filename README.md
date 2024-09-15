@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/@sumanbh49166557" target="blank"><img src="https://img.shields.io/twitter/follow/@sumanbh49166557?logo=twitter&style=for-the-badge" alt="@sumanbh49166557" /></a> </p>
 
 
-- 🔭 I’m currently studing **B.Tech in EEE**
+- 🔭 I’m graduated **B.Tech in EEE**
 
 - 🌱 I’m currently learning **MERN**
 
